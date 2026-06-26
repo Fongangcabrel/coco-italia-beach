@@ -1,0 +1,12 @@
+{
+    "name": "coco-italia-beach/website",
+    "description": "Site web officiel Coco Italia Beach - Parma 2026",
+    "require": {
+        "stripe/stripe-php": "^13.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CocoItaliaBeach\\": "src/"
+        }
+    }
+}
